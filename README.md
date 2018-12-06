@@ -15,6 +15,6 @@ Please set your Image Path and automatically be resized on this code 128*128*1.
 
 Next time, you can compare Inpue Image and Decoded Image.
 
-*Sorry I still write for the SSSIM. Coming soon...
+*Sorry I still write for the SSIM. Coming soon...
 
 
