@@ -8,7 +8,7 @@ That's is amazing method for unsupervised defect segmentation using AutoEncoder 
 # Usage
 ## 1. Use AutoEncoder
 
-You can use your images with AutoEncoder.py.
+You can use your images with AutoEncoder.ipynb.
 Please set your Image Path and automatically be resized on this code 128*128*1.
 
 ## 2. Use SSIM
