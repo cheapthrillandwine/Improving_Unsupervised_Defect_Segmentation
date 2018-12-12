@@ -6,6 +6,14 @@ I tried for my computer vision research.
 That's is amazing method for unsupervised defect segmentation using AutoEncoder with SSIM.
 
 # Usage
+## 0. Install Library
+
+`keras >= 2.0`
+`tensorflow >= 1.6`
+`scikit-learn`
+`PIL`
+`matplotlib`
+
 ## 1. Use AutoEncoder
 
 You can use your images with AutoEncoder.ipynb.
@@ -15,6 +23,4 @@ Please set your Image Path and automatically be resized on this code 128*128*1.
 
 Next time, you can compare Inpue Image and Decoded Image.
 
-*Sorry I still write for the SSIM. Coming soon...
-
-
+If you use SSIM method, you have to `pip install SSIM-PIL`.
