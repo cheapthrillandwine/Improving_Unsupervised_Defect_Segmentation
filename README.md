@@ -18,6 +18,7 @@ That's is amazing method for unsupervised defect segmentation using AutoEncoder 
 
 You can use your images with AutoEncoder.ipynb.
 Please set your Image Path and automatically be resized on this code 128*128*1.
+*minimum 10 images required
 
 ## 2. Use SSIM
 
